@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Olá! Me chamo João Pedro  
 
-<!--
-**JoaoRd019/JoaoRd019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em aprender programação na prática, construindo projetos simples e evoluindo gradualmente.
 
-Here are some ideas to get you started:
+🎯 Atualmente estou estudando:
+- Python (lógica de programação, estruturas de dados e leitura de arquivos)
+- Git e GitHub para versionamento de código
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Neste GitHub você encontrará:
+- Projetos de estudo em Python
+- Exercícios desenvolvidos durante a faculdade
+- Repositórios usados para praticar lógica e organização de código
+
+🚀 Objetivo:
+Fortalecer minha base em programação e avançar para projetos mais completos.
+
+📫 Contato:
+- GitHub: https://github.com/JoaoRd019

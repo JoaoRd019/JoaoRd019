@@ -1,18 +1,27 @@
-👋 Olá! Me chamo João Pedro  
+# 👋 Olá! Eu sou o João Pedro
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em aprender programação na prática, construindo projetos simples e evoluindo gradualmente.
+Estudante de **Análise e Desenvolvimento de Sistemas** em Campinas, SP.
 
-🎯 Atualmente estou estudando:
-- Python (lógica de programação, estruturas de dados e leitura de arquivos)
-- Git e GitHub para versionamento de código
+## 🚀 Sobre mim
 
-📂 Neste GitHub você encontrará:
+- 💻 Aprendendo programação na prática
+- 🐍 Focado em Python e desenvolvimento de software
+- 📚 Construindo projetos para fortalecer minha base em programação
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📂 O que você encontra aqui
+
 - Projetos de estudo em Python
-- Exercícios desenvolvidos durante a faculdade
-- Repositórios usados para praticar lógica e organização de código
+- Exercícios da faculdade
+- Experimentos e testes de código
 
-🚀 Objetivo:
-Fortalecer minha base em programação e avançar para projetos mais completos.
 
-📫 Contato:
-- GitHub: https://github.com/JoaoRd019
+
+---
+
+📫 **Contato**: [GitHub](https://github.com/JoaoRd019)

@@ -14,4 +14,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** em Campinas, SP.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-📫 **Contato**: [GitHub](https://github.com/JoaoRd019) [Linkdin](https://www.linkedin.com/in/jo%C3%A3o-pedro-71649832b/?trk=opento_sprofile_topcard)
+📫 **Contato**: [GitHub](https://github.com/JoaoRd019) [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-71649832b/?trk=opento_sprofile_topcard)
